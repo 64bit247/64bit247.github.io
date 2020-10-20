@@ -3096,8 +3096,7 @@ input, select, textarea {
 			margin-bottom: 0;
 			opacity: 1;
 			visibility: visible;
-			text-align: center;
-		}
+			}
 
 			#header h1 a {
 				border: 0;
@@ -3560,6 +3559,7 @@ input, select, textarea {
 			font-size: 2em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
+			text-align: center;
 		}
 
 		#wrapper > header p {
