@@ -3561,7 +3561,7 @@ input, select, textarea {
 			font-size: 2em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
-			margin-left: 0.5em;
+			text-align: center;
 		}
 
 		#wrapper > header p {
