@@ -3559,7 +3559,6 @@ input, select, textarea {
 			font-size: 2em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
-			text-align: center;
 		}
 
 		#wrapper > header p {
@@ -3609,6 +3608,7 @@ input, select, textarea {
 
 			#wrapper > header h2 {
 				font-size: 1.25em;
+				text-align: center;
 			}
 
 			#wrapper > header p {
