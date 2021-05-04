@@ -1,0 +1,61 @@
+html{
+   background-color: #111111;
+
+}
+
+
+#header{
+   background-color: #252525;
+   height: auto;
+}
+#header>h1{
+   font-size: 60px;
+   padding-top: 2px;
+   padding-bottom: 5px;
+   color: silver;
+   text-align: center;
+}
+
+
+#roomSelection{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+#roomSelection>div{
+   margin: 25px;
+   border: 30px;
+   float: left;
+   border-radius: 10px;
+
+
+
+
+}
+.blogContainer>a>img{
+   width: 250px;
+   height: 200px;
+   margin-top: 20px;
+   margin-left: 50px;
+
+}
+.blogContainer{
+   width: 350px;
+   height: 500px;
+   background-color: #252525;
+}
+.blogContainer>h2{
+   font-size: 30px;
+
+   color: silver;
+   text-align: center;
+
+}
+.blogContainer>p{
+
+   font-size: 18px;
+   color:silver;
+   text-align: center;
+   margin-left: 0px;
+}
