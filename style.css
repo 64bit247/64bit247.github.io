@@ -18,9 +18,10 @@ html{
 
 
 #roomSelection{
-   display: flex;
+   /*display: flex;*/
    justify-content: center;
    align-items: center;
+   margin: auto;
 
 }
 #roomSelection>div{
@@ -32,12 +33,13 @@ html{
 
 
 
+
 }
 .blogContainer>a>img{
    width: 250px;
    height: 200px;
-   margin-top: 20px;
-   margin-left: 50px;
+   padding-left: 50px;
+   padding-top: 15px;
 
 }
 .blogContainer{
@@ -58,4 +60,5 @@ html{
    color:silver;
    text-align: center;
    margin-left: 0px;
+   padding: 5px;
 }
